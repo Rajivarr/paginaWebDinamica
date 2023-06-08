@@ -1,0 +1,49 @@
+nav{
+    padding: 16px;
+    background-color: rgb(241, 228, 111);
+
+}
+nav a{
+    margin: 10px;
+    background-color: rgb(241, 228, 111);
+
+}
+
+#restaurant_container{
+    padding: 30px;
+}
+
+#card {
+
+    border: 2px solid black;
+    margin: 6px;
+    text-align: center;
+
+
+}
+
+#card h5{
+    padding: 8px;
+
+}
+#restaurante{
+    padding: 5px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
